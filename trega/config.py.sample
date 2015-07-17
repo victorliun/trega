@@ -1,0 +1,7 @@
+# login to https://trello.com/app-key#
+TRELLO_API_KEY = "xxxxxxxxxxxxxxxxxxxx"
+TRELLO_API_SECRET = "xxxxxxxxxxxxxxxxxxxxxxxxxx"
+TRELLO_EXPIRATION = 'never'
+# GOT this by run ./util.py
+OAUTH_TOKEN = 'xxxxxxxxxxxxxx'
+OAUTH_TOKEN_SECRET = 'xxxxxxxxxxx'
